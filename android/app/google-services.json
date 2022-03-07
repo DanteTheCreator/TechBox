@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457280447532",
+    "project_id": "techbox-8d24b",
+    "storage_bucket": "techbox-8d24b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457280447532:android:3aa64616ca71125e571d89",
+        "android_client_info": {
+          "package_name": "com.freelance.Techbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457280447532-mr233c1t3onic64rkjqhaqia8p6fui08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrI_Asxefq-O2vK4OgBu72eZYexgYcqWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457280447532-mr233c1t3onic64rkjqhaqia8p6fui08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
